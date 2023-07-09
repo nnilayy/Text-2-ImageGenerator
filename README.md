@@ -1,1 +1,1 @@
-# Text-2-ImageGenerator
+# SmolGPT
